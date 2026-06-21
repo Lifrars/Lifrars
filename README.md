@@ -14,7 +14,7 @@
 - 🌱 Aprendiendo **automatización de procesos con n8n e IA aplicada al desarrollo**
 - 💬 Pregúntame sobre **desarrollo web Full Stack, React, Next.js y NestJS**
 - 📫 Contáctame: **[weslyandres2018@gmail.com]**
-- ⚡ Dato curioso: **[algo divertido sobre ti]**
+- ⚡ Dato curioso: **[Creo que un buen git commit a tiempo ha salvado más noches que cualquier taza de café]**
 
 ---
 
