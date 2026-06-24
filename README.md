@@ -51,7 +51,6 @@
 |----------|-------------|-------------|
 | [**CRM con automatizaciones**](https://github.com/Lifrars/[repo]) | CRM con sistema de pipelines y motor de automatizaciones | NestJS, PostgreSQL, React |
 | [**Plataforma inmobiliaria**](https://github.com/Lifrars/[repo]) | Plataforma con firma electrónica y pasarela de pagos | Next.js, NestJS, Firebase, Wompi |
-| [**[Nombre del proyecto 3]**](https://github.com/Lifrars/[repo]) | [Breve descripción] | [Tecnologías] |
 
 ---
 
