@@ -37,7 +37,6 @@
 ### 📊 Mis estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lifrars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de gishu7b" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lifrars&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 <p align="center">
